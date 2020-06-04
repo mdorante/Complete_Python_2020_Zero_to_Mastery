@@ -1,0 +1,2 @@
+Hey it's me! a test
+I wanna check out if open() works the way I think it worksxDxD
